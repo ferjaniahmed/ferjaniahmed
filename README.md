@@ -16,7 +16,6 @@ full stack developer
 - 🔭 I am looking for a job
 - 🌱 I’m currently learning flutter and kubernetes
 - 📫 How to reach me: ferjani ahmed (Facebook , Intagram , LinkedIn)
-- 
 <!--
 **ferjaniahmed/ferjaniahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
