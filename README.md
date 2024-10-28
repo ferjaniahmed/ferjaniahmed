@@ -7,7 +7,7 @@ I have a huge interesting in coding , and currently studying flutter and kuberne
 I love learning and entering new adventures in software engineering, and build things that help people.
 
 ### Skills:
-full stack developer
+full stack node.js developer
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,angular,nestjs,git,ts,html,css)](https://skillicons.dev)
